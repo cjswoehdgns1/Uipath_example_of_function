@@ -1,0 +1,37 @@
+{
+  "data": {
+    "fc": {
+      "companyCode": "F100",
+      "mailTo": "ew_cost@eland.co.kr;",
+      "mailCc": "",
+      "departmentName": "패션매입팀",
+      "companyName": "(주)이랜드월드",
+      "mainPlaceOfBusiness": "F100"
+    },
+    "eats": {
+      "companyCode": "L108",
+      "mailTo": "KWON_JINMI@eland.co.kr;",
+      "mailCc": "jeong_sookhee@eland.co.kr;",
+      "departmentName": "외식재무팀",
+      "companyName": "(주)이랜드이츠",
+      "mainPlaceOfBusiness": "W500"
+    },
+    "jewelry": {
+      "companyCode": "L101",
+      "mailTo": "EWORLDJ_FI@eland.co.kr;",
+      "mailCc": "",
+      "departmentName": "쥬얼리팀",
+      "companyName": "(주)이월드",
+      "mainPlaceOfBusiness": ""
+    },
+    "enc": {
+      "companyCode": "F110",
+      "mailTo": "EnCFI@eland.co.kr;",
+      "mailCc": "",
+      "departmentName": "이앤씨팀",
+      "companyName": "(주)이앤씨월드",
+      "mainPlaceOfBusiness": "F110"
+    },
+    
+  }
+}
